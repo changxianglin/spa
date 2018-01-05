@@ -1,2 +1,2 @@
 # spa
-web
+web-fe
